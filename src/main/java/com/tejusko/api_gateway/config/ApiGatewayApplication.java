@@ -1,4 +1,4 @@
-package com.tejusko.api_gateway;
+package com.tejusko.api_gateway.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
