@@ -1,4 +1,4 @@
-package com.tejusko.api_gateway;
+package com.tejusko.api_gateway.config;
 
 import java.util.Arrays;
 
